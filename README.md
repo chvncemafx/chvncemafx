@@ -1,5 +1,27 @@
-## Hi there 👋
+<p align="center">
+<img src="https://i.pinimg.com/736x/58/a6/f7/58a6f7782471462f929c4e92db515d37.jpg"/>
+  <div align="center">
+    
+━━━━━━━━━ෆ⁠╹⁠ ✿⁠ ⁠╹⁠ෆ━━━━━━━━━━━━━━━━━━ෆ⁠╹⁠ ✿⁠ ⁠╹⁠ෆ━━━━━━━━━ 
 
+Account for forsaken specifically.
+
+My main account is [Stellarism](https://github.com/steIIarism)
+
+<!--
+**MirroredVeracity/MirroredVeracity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **chvncemafx/chvncemafx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
